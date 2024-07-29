@@ -1,2 +1,2 @@
 # Verkle Tree Optimization ETH
-Verkle Tree Optimization for Stateless Ethereum Client
+This project aims to enhance the scalability and efficiency of the Ethereum network by implementing Verkle Trees for state storage and retrieval. By leveraging Verkle Trees, we can reduce storage requirements and improve transaction validation times, ultimately transitioning to a stateless client architecture. The project involves designing, implementing, and testing a prototype Ethereum client that operates without storing the entire state. This includes the development of a Verkle Tree data structure, a system for generating and validating transaction witnesses, and integration with a testnet for performance optimization and real-world data interaction.
