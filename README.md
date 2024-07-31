@@ -7,7 +7,6 @@ This project aims to enhance the scalability and efficiency of the Ethereum netw
 The current state storage in Ethereum is becoming increasingly large and difficult to manage, leading to inefficiencies and higher costs. This project addresses these challenges by introducing Verkle Trees, which offer more efficient state storage and retrieval.
 
 ## Proposed Solution
-Solution involves:
 - **Verkle Tree Data Structure:** Developing a Verkle Tree for efficient state storage and retrieval.
 - **Witness Generation:** Creating a system for generating and validating transaction witnesses without the need for the full state.
 - **Stateless Client Prototype:** Building a prototype Ethereum client that operates without storing the entire state.
